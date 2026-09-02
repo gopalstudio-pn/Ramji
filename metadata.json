@@ -1,0 +1,6 @@
+{
+  "name": "Gopal Singh — Personal Digital World",
+  "description": "The official personal digital world of Gopal Singh. Exploring photography, AI-assisted creativity, digital projects, reading, and personal reflections. Still becoming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
